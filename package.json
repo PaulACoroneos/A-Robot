@@ -1,0 +1,14 @@
+{
+  "name": "arobot",
+  "version": "1.0.0",
+  "description": "Implemention of Chapter 7 Project: A Robot",
+  "main": "index.ts",
+  "scripts": {
+    "lint": "eslint . --ext .ts,.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "execute": "ts-node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
